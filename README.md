@@ -1,0 +1,4 @@
+Hello people of the internet. This is my first project. I have no previous experience with coding. But I enjoyed doing this one. 
+The idea was to make a website with the basic html tools. It's a website about some recipes that picked my personal interest. Believe me when I say, I was desesperate for some form of sugar during and after the making of this website. But it was worth it. I might have not eaten sugar yet, but I feel like I'm learning an actual skill. And somehow that feels sweeter.
+One thing I can get out of this is that I can improve in other areas. For example, my writing skills. The struggle was real. I almost used AI help for the description, but I prefer to abstain until I have a general idea. Overall, this project was a great experience. I hope it becomes a point of comparison for my future progress.
+Have a great day!
